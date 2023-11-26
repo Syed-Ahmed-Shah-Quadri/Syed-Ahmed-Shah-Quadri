@@ -1,7 +1,7 @@
 # About me 😍
 - 👋 Hi, I’m @ Syed Ahmed Shah Quadri
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently pursuing B.E
+- 🌱 I’m a student
 - 📫 How to reach me ...
 
 <!---
